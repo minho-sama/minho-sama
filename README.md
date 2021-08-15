@@ -1,8 +1,8 @@
 ### Hi there, I'm Nguyen Anh Minh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-anh-minh-hu/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-anh-minh-hu/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:n.a.minh1106@gmail.com)
 
-## My Arsenal
+# My Arsenal
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-45b8d8?logo=react&style=flat-square&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 ![Netlify Badge](https://img.shields.io/badge/-Netlify-146396?style=flat-square&logo=netlify&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-##Currently learning:
+# Currently learning
 ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Chakra UI Badge](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 

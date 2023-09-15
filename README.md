@@ -19,7 +19,6 @@
 
 # Currently learning
 ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Chakra UI Badge](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minho-sama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
